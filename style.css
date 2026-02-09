@@ -16,7 +16,7 @@ html {
 
 .UL-NAVBAR {
     display: flex;
-    height: 10vh;
+    height: 5vh;
     justify-content: CENTER;
     align-items: center;
 }
@@ -50,7 +50,7 @@ font-size: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 80vh;
+    height: 85vh;
 }
 
 .a-CONTENT {
@@ -88,5 +88,6 @@ box-shadow: 5px 5px 15px 5px #000000, 5px 5px 15px 5px #000000;
     color: white;  
 
 }
+
 
 
